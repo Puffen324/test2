@@ -6,6 +6,7 @@ public class TicTacToeMain {
 
 	public static void main(String[] args) {
 		System.out.println("Testar GitHub!");
+		System.out.println("Hej världen!");
 		PrintHej.hej();
 	}
 

@@ -1,9 +1,9 @@
-package com.test;
+package com.grupp6a.tictactoe;
 
-public class testnain {
+public class TicTacToeMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 
